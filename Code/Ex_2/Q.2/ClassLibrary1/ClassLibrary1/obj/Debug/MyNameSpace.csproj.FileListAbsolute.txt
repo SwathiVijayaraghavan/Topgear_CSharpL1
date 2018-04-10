@@ -1,0 +1,5 @@
+C:\Users\sw360061\Documents\Visual Studio 2015\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\sw360061\Documents\Visual Studio 2015\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\sw360061\Documents\Visual Studio 2015\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\MyNameSpace.csprojResolveAssemblyReference.cache
+C:\Users\sw360061\Documents\Visual Studio 2015\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\sw360061\Documents\Visual Studio 2015\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

@@ -1,0 +1,5 @@
+c:\users\sw360061\documents\visual studio 2015\Projects\Project_Training\Project_Training\bin\Release\Project_Training.exe.config
+c:\users\sw360061\documents\visual studio 2015\Projects\Project_Training\Project_Training\bin\Release\Project_Training.exe
+c:\users\sw360061\documents\visual studio 2015\Projects\Project_Training\Project_Training\bin\Release\Project_Training.pdb
+c:\users\sw360061\documents\visual studio 2015\Projects\Project_Training\Project_Training\obj\Release\Project_Training.exe
+c:\users\sw360061\documents\visual studio 2015\Projects\Project_Training\Project_Training\obj\Release\Project_Training.pdb
