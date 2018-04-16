@@ -1,5 +1,0 @@
-c:\users\sw360061\documents\visual studio 2015\Projects\udemyexercise\udemyexercise\bin\Debug\udemyexercise.exe.config
-c:\users\sw360061\documents\visual studio 2015\Projects\udemyexercise\udemyexercise\bin\Debug\udemyexercise.exe
-c:\users\sw360061\documents\visual studio 2015\Projects\udemyexercise\udemyexercise\bin\Debug\udemyexercise.pdb
-c:\users\sw360061\documents\visual studio 2015\Projects\udemyexercise\udemyexercise\obj\Debug\udemyexercise.exe
-c:\users\sw360061\documents\visual studio 2015\Projects\udemyexercise\udemyexercise\obj\Debug\udemyexercise.pdb
